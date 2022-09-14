@@ -39,7 +39,7 @@
   <include ref="../../DetFCCeeIDEA/compact/SimplifiedDriftChamber.xml"/>
   <include ref="../../DetFCCeeECalInclined/compact/FCCee_ECalBarrel.xml" />
   <include ref="../../DetFCCeeHCalTile/compact/FCCee_HCalBarrel_TileCal.xml" />
-  <include ref="../../DetCommon/compact/FluxDet.xml" />
+  <include ref="../../DetCommon/compact/FluxMeter.xml" />
 
 
 </lccdd>
